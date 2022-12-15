@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img alt="common readme" src="common-readme.png">
+  <img alt="common readme" src="pirs_prichal_more_sumerki_bereg_118549_300x168.jpg">
 </h4>
 
 ***Module consumers!*** Frustrated by each module having its own wildly
